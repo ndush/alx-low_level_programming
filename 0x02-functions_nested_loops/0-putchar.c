@@ -1,4 +1,4 @@
-#include "holberton.h"
+clude "main.h"
 /**
  * main - Entry point
  *
@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	char *sh = "Holberton";
+	char *sh = "Damaris";
 
 	while (*sh)
 	{
@@ -17,3 +17,4 @@ int main(void)
 
 	return (0);
 }
+
