@@ -3,8 +3,8 @@
 /** 
  *main - runs all the code
  *
- *description:Runs puts and print statement
- *Return:Return(0)to exit function
+ *description: Runs puts and print statement
+ *Return: Return (0) to exit function
  */
 int main(void)
 {
