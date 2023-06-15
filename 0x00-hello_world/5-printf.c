@@ -4,7 +4,7 @@
  * main - run the main function
  *
  * Description: runs printf and print statement
- * Return 0 to exit
+ * Return: Return 0 to exit
  */
 int main(void)
 {
