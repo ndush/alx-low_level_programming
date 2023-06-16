@@ -2,9 +2,10 @@
 #include <unistd.h>
 
 /**
- * main - run all functions
- * description: change thestandard error
- * return:return 1 and exit
+ *main - run all functions
+ *
+ *Description: Change standard error message
+ *Return:return 1 and exit
  */
 int main(void)
 {
