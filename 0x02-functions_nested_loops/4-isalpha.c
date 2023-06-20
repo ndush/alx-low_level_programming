@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * _isalpha prints 1 if the input is an
+ * _isalpha -  prints 1 if the input is an
  * alphabet otherwise it prints 0
  *
  * @c: The character in ASCII code
