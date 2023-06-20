@@ -1,6 +1,9 @@
 #include <stdio.h>
-
-int main() {
+/**
+ * main  - entry point
+ */
+int main() 
+{
 	printf("_putchar\n");
 	return 0;
 }
