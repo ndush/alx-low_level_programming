@@ -3,7 +3,7 @@
 /**
  * _islower - Prints 1 if the input is a lowercase, else 0
  *
- * Uses the ASCII code
+ * @c: Uses the ASCII code
  *
  * Return: 1 for lowercase. 0 for the rest.
  */
