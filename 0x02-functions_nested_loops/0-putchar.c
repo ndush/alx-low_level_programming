@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - entry point
+ * main - Entry point
  * Description: 'prints _putchar to stdout'
  * Return: Always 0
  */
