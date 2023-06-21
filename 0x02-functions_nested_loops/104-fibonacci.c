@@ -37,7 +37,7 @@ int main(void)
 		}
 		printf("%ld%ld", printfhalf, printshalf);
 		if (c == 97)
-			break
+			break;
 		printf(", ");
 		halfaf = halfas;
 		halfbf = halfbs;
