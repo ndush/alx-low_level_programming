@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *print_diagnol - printing lines diagnol
+ *print_diagonal - printing lines diagnol
  *@n: input variable
  *
  * Return: void
