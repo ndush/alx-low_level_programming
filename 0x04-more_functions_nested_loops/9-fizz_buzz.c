@@ -19,7 +19,7 @@ int main(void)
 		if (i % 15 == 0)
 			printf("FizzBuzz");
 		else if (i % 3 == 0)
-			ptintf("Fizz");
+			printf("Fizz");
 		else if (i % 5 == 0)
 			printf("Buzz");
 		else
