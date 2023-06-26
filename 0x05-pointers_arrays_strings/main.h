@@ -1,10 +1,10 @@
 #ifndef MAIN_H
-#define MAIN_H
+#define MAINi_H
 
 #include <stdio.h>
-#define <unistd.h>
+#include <unistd.h>
 
-int int _putchar(char c);
+int  _putchar(char c);
 void reset_to_98(int *n);
 void swap_int(int *a, int *b);
 int _strlen(char *s);
