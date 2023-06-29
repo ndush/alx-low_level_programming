@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+ * main - entry
+ */
 int main(void)
 {
 	int n;
