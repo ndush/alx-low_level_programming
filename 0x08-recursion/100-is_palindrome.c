@@ -12,7 +12,7 @@ int is_palindrome(char *s)
 {
 	int l;
 
-	l = check_pal(s,o);
+	l = check_pal(s,0);
 	return (_strlen_recursion(s, l));
 	
 }
