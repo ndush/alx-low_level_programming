@@ -10,9 +10,11 @@ int _strlen_recursion(char *s);
  */
 int is_palindrome(char *s)
 {
-	if (*s == 0)
-		return (1);
-	return (check_pal(s, 0, _strlen_recursion(s)));
+	int l;
+
+	l = check_pal(s,o);
+	return (_strlen_recursion(s, l));
+	
 }
 /**
  * _strlen_recursion - returns the length of a string
