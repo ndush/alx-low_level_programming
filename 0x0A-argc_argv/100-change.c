@@ -12,7 +12,7 @@ int main(int argc, char **argv)
 	int total, count;
 	unsigned int i;
 	char *p;
-	int cents[] = { 30, 8, 5, 2};
+	int cents[] = {20, 10, 5, 2};
 
 	if (argc != 2)
 	{
@@ -40,7 +40,9 @@ int main(int argc, char **argv)
 	}
 	else
 	{
-		printf("%d\n", count);
-		return (0);
+		printf("Error\n");
+		return (1);
 	}
+	printf("%d\n", count);
+	return (0);
 }
