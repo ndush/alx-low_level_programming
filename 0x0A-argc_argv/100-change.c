@@ -17,9 +17,9 @@ int main(int argc, char **argv)
 	if (argc != 2)
 	{
 		printf("Error\n");
-		return (i);
+		return (1);
 	}
-	total = strtol(argv[i], &p, 10);
+	total = strtol(argv[1], &p, 10);
 	count = 0;
 
 	if (!*p)
