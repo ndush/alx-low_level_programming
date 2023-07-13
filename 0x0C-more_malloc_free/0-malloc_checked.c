@@ -8,9 +8,12 @@
  */
 void *malloc_checked(unsigned int b)
 {
-	iint *m = malloc(b);
+	void *ptr;
 
-	if (m == NULL)
+	ptr = malloc(b);
+
+	if (ptr == NULL)
 		exit(98);
-	return (m);
+
+	return (ptr);
 }
