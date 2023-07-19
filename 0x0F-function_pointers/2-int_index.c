@@ -4,7 +4,7 @@
  * for which the cmp function does not return 0
 *@array: array
 *@size: number of elements in the array array
-*cmp:  pointer to the function to be used to compare values
+*@cmp:  pointer to the function to be used to compare values
 *Return: 0
 */
 int int_index(int *array, int size, int (*cmp)(int))
